@@ -20,5 +20,27 @@
   hi there :wave:
   </h1>
   </div>
-  
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
 
+### :man_technologist: About Me :
+I am a young programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I create websites in HTML
+
+- :seedling: I am studying programming and interested in development
+
+- :zap: I study the latest technologies in the field of development
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40">&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
+   ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=val3kXD&theme=dark&background=000000)](https://git.io/streak-stats) 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=val3kXD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
