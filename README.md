@@ -11,7 +11,7 @@
   </a>
   </div>
   <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=val3kXD&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=val3kXD&style=flat-square&color=green" alt=""/>
   </div>
   <div align="center">
   <h1>
@@ -30,12 +30,15 @@ I am a young programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: I study the latest technologies in the field of development
 
----
+  ---
 
 ### :hammer_and_wrench: Languages and Tools :
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40">&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
+<div> 
+ <img src="https://img.shields.io/badge/PYTHON-green?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> 
+ <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> 
+ <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/> 
+ <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/> </div>
+   
    ---
 
 ### :fire: My Stats :
