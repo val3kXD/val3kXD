@@ -34,7 +34,6 @@ I am a young programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
- <img src="https://img.shields.io/badge/PYTHON-green?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> 
  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> 
  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/> 
  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/> </div>
